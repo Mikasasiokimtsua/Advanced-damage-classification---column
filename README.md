@@ -17,7 +17,7 @@ python inference_column.py --test_dir column
 ```
 
 # Data structure
-Please download column, column_damage, column_crack folders and place them in a same folder of the scripts.
+Please download column, column_damage, column_crack folders and place them in the same folder with the scripts.
 https://drive.google.com/drive/folders/1Tl4Gf359FkfsSIwF9G41KvZ1SDxKxLz4?usp=sharing
 
 
