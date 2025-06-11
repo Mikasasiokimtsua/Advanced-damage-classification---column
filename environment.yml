@@ -1,0 +1,16 @@
+name: column-damage
+channels:
+  - pytorch
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.12
+  - pytorch=2.3
+  - torchvision=0.18
+  - torchaudio=2.3          
+  - pillow>=10.0
+  - pandas>=2.0
+  - tqdm>=4.66
+  - pip
+  - pip:
+      - torchcam>=0.3       
